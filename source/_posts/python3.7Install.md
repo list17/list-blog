@@ -2,7 +2,7 @@
 title: Python3.7 手动安装记录
 date: 2019-11-9 18:38:45
 mp3: http://domain.com/awesome.mp3
-cover: http://domain.com/awesome.jpg
+cover: ../img/image1.jpg
 ---
 第一次手动编译python安装记录。
 ## Step 1

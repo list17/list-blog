@@ -1,6 +1,6 @@
 ---
 title: The New Beginning
-date: 2019-11-9 18:38:45
+date: 9102-1-1 00:00:00
 mp3: http://domain.com/awesome.mp3
 cover: http://domain.com/awesome.jpg
 ---

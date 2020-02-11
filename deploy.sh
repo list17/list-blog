@@ -1,0 +1,1 @@
+rsync -v -r docs/.vuepress/dist/ list@list17.top:/srv/blog_vuepress

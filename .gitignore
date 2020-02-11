@@ -1,7 +1,2 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
+docs/.vuepress/
 node_modules/
-public/
-.deploy*/

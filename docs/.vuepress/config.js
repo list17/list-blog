@@ -1,4 +1,7 @@
 module.exports = {
-    title: 'Hello VuePress',
-    description: 'Just playing around'
+    title: 'Welcomt to list\'s blog',
+    description: 'Just for fun',
+    head: [
+        ['link', { rel: 'icon', href: './resource/favicon.png' }]
+    ]
 }

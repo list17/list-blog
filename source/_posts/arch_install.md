@@ -54,4 +54,16 @@ xdg-user-dirs-update --set TEMPLATES ~/Templates
 然后你可以向Templates的文件夹中创建一些新文件，（可能需要logout一下）之后在右键的新建文件中便可以找到你刚才创建的模板。
 （我觉得应该有命令可以创建一些常用的模板，但是我并没有找到，如果你知道的话，希望通过留言告诉我，谢谢）
 
+## vlc 播放视频闪退 
+通过
+```bash
+sudo pacman -S vlc
+``` 
+安装vlc之后打开一个1.4G的mp4文件闪退，（可能是由于文件过大？因为打开另一个100多mb的就没有问题），之后通过查wiki发现可能是没有安装驱动造成的，之后通过
+```bash
+sudo pacman -S libva-intel-driver
+```
+我的是一个intel的核显和一个Nvidia的独显，但是只安装了intel的驱动之后便可以正常播放。
+
+
 ## 想起来或者遇到了再写。。。

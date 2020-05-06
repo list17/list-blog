@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://list17.info
+url: https://list17.top 
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -96,7 +96,7 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: list17.info
+  host: list17.top
   user: list
   root: /srv/blog
   port: 22

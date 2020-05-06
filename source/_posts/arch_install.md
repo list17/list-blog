@@ -67,3 +67,6 @@ sudo pacman -S libva-intel-driver
 
 
 ## 想起来或者遇到了再写。。。
+
+## 后续
+目前已经转到kde，kde的一些东西用起来的确很舒服像是kde-connect等。
